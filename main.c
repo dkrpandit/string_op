@@ -103,7 +103,7 @@ int main()
             printf(" \n After the reverse of a string: %s ", strrev(str1));
             break;
         default:
-            printf("bhai kya kar raha hai tu ,kuchh bhi mat enter kar \n");
+            printf(choose the valid options \n");
             break;
         }
     } while (choice != 6);
@@ -177,5 +177,5 @@ Enter first string: Dharmendra
 5.Reverse
 6.Exit
 6
-bhai kya kar raha hai tu ,kuchh bhi mat enter kar
+choose the valid options 
  */
